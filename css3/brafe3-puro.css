@@ -261,14 +261,14 @@ main.main-container{
     position: absolute;
     top: 10px;
     right:10px;
-    background:  url('../img/edit.svg')  no-repeat;
+    background:  url('../img3/edit.svg')  no-repeat;
 
     
 
 }
 
 .produtos-item a:hover{
-    background:  url('../img/edit-hover.svg')  no-repeat;
+    background:  url('../img3/edit-hover.svg')  no-repeat;
 }
 
 
