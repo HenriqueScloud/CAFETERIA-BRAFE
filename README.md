@@ -3,12 +3,11 @@
     <P font-size='12px'> Café com amor ! ☕❤️
 </h1>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="URL_DA_THUMBNAIL" alt="DESCRIÇÃO_DO_VIDEO" width="400">
-  </a>
-</p>
 
+  
+
+
+<p align='center'><img src='https://github.com/HenriqueScloud/CAFETERIA-BRAFE/assets/124588969/42c32ac5-ac4b-4dce-aef6-8ff892f4223d'></p>
 
 <p align='center'><button ><a href='https://henriquescloud.github.io/LOGIN-PAGE/index.html' > ACESSAR </a></button></p><br>
 
