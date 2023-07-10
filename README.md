@@ -2,15 +2,6 @@
     <img src='img1/brafe.png' >
     <P font-size='12px'> Café com amor ! ☕❤️
 </h1>
-<<<<<<< HEAD
-<p align="center">
-  <img src=''>
-  <p align='center'><button ><a href='https://henriquescloud.github.io/CAFETERIA-BRAFE/brafe1-flexbox.html' > ACESSAR </a></button></p><br>
-=======
-
-
->>>>>>> 0ba7419263226ca21f95d72240723234c2c65fe9
-  
 
 
 <p align='center'><img src='https://github.com/HenriqueScloud/CAFETERIA-BRAFE/assets/124588969/42c32ac5-ac4b-4dce-aef6-8ff892f4223d'></p>
