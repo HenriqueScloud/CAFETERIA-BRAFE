@@ -15,7 +15,7 @@
 
 <p align='center'><img src='https://github.com/HenriqueScloud/CAFETERIA-BRAFE/assets/124588969/42c32ac5-ac4b-4dce-aef6-8ff892f4223d'></p>
 
-<p align='center'><button ><a href='https://henriquescloud.github.io/LOGIN-PAGE/index.html' > ACESSAR </a></button></p><br>
+<p align='center'><button ><a href='https://henriquescloud.github.io/CAFETERIA-BRAFE/brafe1-flexbox.html' > ACESSAR </a></button></p><br>
 
 <h1 align="center">🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕</h1>
 
