@@ -2,13 +2,16 @@
     <img src='img1/brafe.png' >
     <P font-size='12px'> Café com amor ! ☕❤️
 </h1>
+
 <p align="center">
-  <video width="400" height='500' controls loop>
-    <source src="site.mp4" type="video/mp4">
-  </video>
-  <p align='center'><button ><a href='https://henriquescloud.github.io/LOGIN-PAGE/index.html' > ACESSAR </a></button></p><br>
-  
+  <a href="" target="_blank">
+    <img src="URL_DA_THUMBNAIL" alt="DESCRIÇÃO_DO_VIDEO" width="400">
+  </a>
 </p>
+
+
+<p align='center'><button ><a href='https://henriquescloud.github.io/LOGIN-PAGE/index.html' > ACESSAR </a></button></p><br>
+
 <h1 align="center">🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕</h1>
 
 <p align='center'>Seja bem-vindo(a) ao projeto de frontend desenvolvido para a Brafé, uma cafeteria que encanta seus clientes com uma experiência de café única. Neste projeto, criamos um site direto, resumido, criativo e profissional, solucionando problemas reais e agregando valor significativo para a empresa do cliente.</p><br>
