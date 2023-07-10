@@ -3,10 +3,8 @@
     <P font-size='12px'> Café com amor ! ☕❤️
 </h1>
 <p align="center">
-  <video width="400" height='500' controls loop>
-    <source src="site.mp4" type="video/mp4">
-  </video>
-  <p align='center'><button ><a href='https://henriquescloud.github.io/LOGIN-PAGE/index.html' > ACESSAR </a></button></p><br>
+  <img src=''>
+  <p align='center'><button ><a href='https://henriquescloud.github.io/CAFETERIA-BRAFE/brafe1-flexbox.html' > ACESSAR </a></button></p><br>
   
 </p>
 <h1 align="center">🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕</h1>
