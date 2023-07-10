@@ -6,13 +6,14 @@
 
 <p align='center'><img src='https://github.com/HenriqueScloud/CAFETERIA-BRAFE/assets/124588969/42c32ac5-ac4b-4dce-aef6-8ff892f4223d'></p>
 
-<p align='center'><button ><a href='https://henriquescloud.github.io/CAFETERIA-BRAFE/brafe1-flexbox.html' > ACESSAR </a></button></p><br>
+<p align='center'><button ><a href='https://henriquescloud.github.io/CAFETERIA-BRAFE/brafe1-flexbox.html' > ACESSAR </a></button></p><br><h1></h1>
 
-<h1 align="center">🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕</h1>
+<p align='center'>🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕<p><br>
 
-<p align='center'>Seja bem-vindo(a) ao projeto de frontend desenvolvido para a Brafé, uma cafeteria que encanta seus clientes com uma experiência de café única. Neste projeto, criamos um site direto, resumido, criativo e profissional, solucionando problemas reais e agregando valor significativo para a empresa do cliente.</p><br>
+<p align='center'>Seja bem-vindo(a) ao projeto de frontend desenvolvido para a Brafé, uma cafeteria que encanta seus clientes com uma experiência de café única. Neste projeto, criamos um site direto, resumido, criativo e profissional, solucionando problemas reais e agregando valor significativo para a empresa do cliente.</p><br><h1></h1>
 
-<h2>✨ Soluções diretas e resultados tangíveis:</h2><br>
+
+<p align='center'>✨ Soluções diretas e resultados tangíveis:☕<p><br>
 
 <p>
     ✅ Atração e envolvimento dos clientes: Através do design criativo e cativante, o site da Brafé conquista o interesse dos visitantes logo de cara. Com uma experiência visualmente encantadora, conseguimos despertar a curiosidade e o desejo de conhecer pessoalmente a cafeteria.</p><br>
