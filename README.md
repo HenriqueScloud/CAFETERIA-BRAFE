@@ -10,7 +10,7 @@
 
 <p align='center'>🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕<p><br>
 
-<p align='center'>Seja bem-vindo(a) ao projeto de frontend desenvolvido para a Brafé, uma cafeteria que encanta seus clientes com uma experiência de café única. Neste projeto, criamos um site direto, resumido, criativo e profissional, solucionando problemas reais e agregando valor significativo para a empresa do cliente.</p><br><h1></h1>
+<p align='center'>Seja bem-vindo(a) ao projeto de frontend desenvolvido para a Brafé, uma cafeteria que encanta seus clientes com uma experiência de café única. Neste projeto, criei um site direto, resumido, criativo e profissional, solucionando problemas reais e agregando valor significativo para a cafeteria.</p><br><h1></h1>
 
 
 <p align='center'>✨ Soluções diretas e resultados tangíveis:☕<p><br>
